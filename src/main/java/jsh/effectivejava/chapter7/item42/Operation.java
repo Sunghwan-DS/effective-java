@@ -1,4 +1,4 @@
-package jsh.effectivejava.chapter7;
+package jsh.effectivejava.chapter7.item42;
 
 import java.util.function.DoubleBinaryOperator;
 
