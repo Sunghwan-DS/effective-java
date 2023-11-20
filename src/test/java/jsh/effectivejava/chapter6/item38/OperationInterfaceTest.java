@@ -1,7 +1,5 @@
-package jsh.effectivejava.item38;
+package jsh.effectivejava.chapter6.item38;
 
-import jsh.effectivejava.chapter6.item38.ExtendedOperation;
-import jsh.effectivejava.chapter6.item38.Operation;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

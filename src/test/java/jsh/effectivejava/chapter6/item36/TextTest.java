@@ -1,6 +1,5 @@
-package jsh.effectivejava.item36;
+package jsh.effectivejava.chapter6.item36;
 
-import jsh.effectivejava.chapter6.item36.Text;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

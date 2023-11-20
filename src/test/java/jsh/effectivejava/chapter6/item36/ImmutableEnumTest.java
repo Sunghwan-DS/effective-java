@@ -1,7 +1,5 @@
-package jsh.effectivejava.item36;
+package jsh.effectivejava.chapter6.item36;
 
-import jsh.effectivejava.chapter6.item36.DayEnum;
-import jsh.effectivejava.chapter6.item36.ImmutableEnumSet;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

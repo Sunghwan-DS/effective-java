@@ -1,7 +1,5 @@
-package jsh.effectivejava.item37;
+package jsh.effectivejava.chapter6.item37;
 
-import jsh.effectivejava.chapter6.item37.Plant;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

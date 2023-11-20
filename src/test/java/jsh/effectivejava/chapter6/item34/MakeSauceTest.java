@@ -1,8 +1,5 @@
-package jsh.effectivejava.item34;
+package jsh.effectivejava.chapter6.item34;
 
-import jsh.effectivejava.chapter6.item34.AppleEnum;
-import jsh.effectivejava.chapter6.item34.IntegerEnumerationPattern;
-import jsh.effectivejava.chapter6.item34.OrangeEnum;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
